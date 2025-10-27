@@ -110,6 +110,12 @@ body {
     width: 90vw;
     max-width: 21.5rem;
   }
+  .profile-img {
+    margin: 3.5rem 0 .5rem;
+  }
+  .numb {
+    padding: 1.5rem;
+  }
   .top-img {
     width: 100%;
     top: -8rem;
